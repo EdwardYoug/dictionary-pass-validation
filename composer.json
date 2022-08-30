@@ -1,0 +1,17 @@
+{
+    "name": "edwardyoug/dictionary-pass-validation",
+    "description": "package for validate passwords to dictionary",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Edwardyoug\\DictionaryPassValidation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EdwardYoug"
+        }
+    ],
+    "require": {}
+}
